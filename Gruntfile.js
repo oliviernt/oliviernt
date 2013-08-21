@@ -17,5 +17,9 @@ module.exports = function (grunt) {
 
 	grunt.loadNpmTasks('grunt-sass');
 
-	grunt.registerTask('default', ['sass']);
+
+	// tasks
+	grunt.registerTask('default', ['sass:dev']);
+
+	grunt.registerTask('distribution', ['sass:dist']);
 };
