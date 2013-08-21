@@ -43,3 +43,5 @@ css
 # build script local files
 build/buildinfo.properties
 build/config/buildinfo.properties
+scripts/gsu.php
+scripts/index.php
