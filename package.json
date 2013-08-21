@@ -1,0 +1,8 @@
+{
+  "name": "olivier-tille",
+  "devDependencies": {
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1",
+    "grunt-sass": "~0.6.1"
+  }
+}

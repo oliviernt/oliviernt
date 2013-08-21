@@ -1,0 +1,147 @@
+/*! olivier-tille.de styles */
+
+html {
+  background: $background;
+  color: #aaa;
+  font-family: "Helvetica Neue", Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0; 
+}
+
+header,
+footer {
+  margin: .5em 1em;
+}
+  header h1 span {
+    display: block;
+    font-size: .875em;
+  }
+
+p {
+  line-height: 1.8em;
+}
+
+a,
+a:active,
+a:hover,
+a:focus,
+a:visited {
+  color: $linkColor;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+abbr {
+  cursor: help;
+}
+
+nav a,
+nav a:active,
+nav a:focus,
+nav a:visited,
+nav a:hover {
+  background-color: $linkColor;
+  border-radius: .5em;
+  border: .125em solid $linkColor;
+  color: white;
+  display: block;
+  margin: .5em 1em;
+  text-decoration: none;
+  padding: 1em 1.25em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+  nav a:hover {
+    border-color: white;
+  }
+
+section {
+  margin: 2em 1em;
+  overflow: hidden;
+}
+
+ol, ul, ul li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+  ol li {
+    margin: .5em .5em;
+    padding: 0;
+    text-align: center;
+  }
+    ol li a,
+    ol li a:active,
+    ol li a:hover,
+    ol li a:visited {
+      color: #eee;
+    }
+      ol li a img {
+        display: block;
+        margin: 0 auto .3125em;
+      }
+
+      ol li a.company {
+        display: block;
+        font-size: .8em;
+        margin: 0 0 1.25em;
+      }
+
+:target h2 {
+  text-decoration: underline;
+  color: white;
+}
+
+#about-me div {
+  background: #e00000;
+  float: right;
+  line-height: 0;
+  margin: 0 1em .5em .5em;
+  border-radius: 15em 0 15em 15em;
+  border: .25em solid #e00000;
+  overflow: hidden;
+  transition-duration: .5s;
+  transition-property: border-radius;
+}
+  #about-me div:hover {
+    border-radius: 0 15em 15em;
+    transition-duration: .5s;
+    transition-property: border-radius;
+  }
+
+@media screen and (min-width: 38em) {
+  nav ul li {
+    width: 49%;
+    display: inline-block;
+  }
+
+  ol li {
+    display: inline-block;
+    width: 47%;
+  }
+}
+
+@media screen and (min-width: 50em) {
+  nav {
+    float: right;
+    width: 33%;
+    max-width: 250px;
+    overflow: auto;
+      ul li {
+        width: 100%;
+        display: block;
+      }
+  }
+
+  ol li {
+    display: inline-block;
+    width: 30%;
+  }
+}
