@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+# rev 2
+CACHE:
+css/main.css
+img/amg.png
+img/jardins-terrerouge.png
+img/malibu.png
+img/micoach.png
+img/olivier-tille.jpg
+img/sleeman.png
+img/wonderbug.png
+
+NETWORK:
+*
