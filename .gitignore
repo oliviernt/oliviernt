@@ -43,3 +43,4 @@ node_modules
 build/buildinfo.properties
 build/config/buildinfo.properties
 scripts/
+index.php
