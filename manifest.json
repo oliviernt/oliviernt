@@ -1,0 +1,15 @@
+{
+  "short_name": "O. Tille",
+  "name": "Olivier Tille's personal website",
+  "icons": [
+    {
+      "src": "img/olivier-tille.png",
+      "type": "image/png",
+      "sizes": "142x144"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#333333",
+  "theme_color": "#333333",
+  "display": "minimal-ui"
+}

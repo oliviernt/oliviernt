@@ -4,13 +4,12 @@
 
 /* TEAM */
   Olivier Tille
-  Site: www.olivier-tille.de
+  Site: oliviernt.keybase.pub
   Twitter: @oliviernt
-  Location: Berlin
+  Location: Freiburg
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
 
 
 
