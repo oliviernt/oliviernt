@@ -1,7 +1,7 @@
 // Service Worker
 importScripts('js/cache-polyfill.js');
 
-const version = 'v1.0.1';
+const version = 'v1.1.1';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
