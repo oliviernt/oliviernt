@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/oliviernt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.olivier-tille.de
+  * I am oliviernt (https://keybase.io/oliviernt) on keybase.
+  * I have a public key ASD5yOZSDmjgfQaduIjqOH5SwIpl4K_J0hJeB_OeXLeb9wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017a71c3cf0c744a3a391375c588429c46caba63651c6782be9c8cb96d0486e3e10a",
+      "host": "keybase.io",
+      "kid": "0120f9c8e6520e68e07d069db888ea387e52c08a65e0afc9d2125e07f39e5cb79bf70a",
+      "uid": "7c55d58daefbabf86073124905b17819",
+      "username": "oliviernt"
+    },
+    "merkle_root": {
+      "ctime": 1551969445,
+      "hash": "e9b18a89867c51c533cdee0b6cd043b294658826bdc509c1bf9b1c4ead4c5a17bc20edcba70c86f08f0b6cef5e861202f0be8bedee5aebe5cce96cf0e72dd4d9",
+      "hash_meta": "1d3c77a9ede79848984dfe02bf5132c81e862fb45233ec4681b55bf3b754cbb7",
+      "seqno": 4894671
+    },
+    "service": {
+      "entropy": "I6pV5K00zAZaDwd8MlhN+IU5",
+      "hostname": "www.olivier-tille.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551969462,
+  "expire_in": 504576000,
+  "prev": "f1e8f9a8bb494dc210f3dc7df01e5b0a2d904a2a464b7d441ac270b313a051d4",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+cjmUg5o4H0GnbiI6jh+UsCKZeCvydISXgfznly3m/cKp3BheWxvYWTESpcCJ8Qg8ej5qLtJTcIQ89x98B5bCi2QSipGS31EGsJwsxOgUdTEINMnLDinGwH14e51D7kJKqTGfUrc4jZezTJ86BrzxCjdAgHCo3NpZ8RAdH+YeO6XkogTVbRBXaqX3BhIVIo2PA91mMlYdV63+URwVxDPiEdK8Va5op3QC1i65RLKpKrRstbGCHnJ4fLLDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPrWq3GbXMJ/ROUat85U4ClyJtdlry/56gz5ZW5Wex6To3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oliviernt
+
+==================================================================
