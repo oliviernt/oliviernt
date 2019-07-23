@@ -2,7 +2,7 @@
   "name": "oliviernt",
   "description": "The repo to my own website: https://www.olivier-tille.de",
   "devDependencies": {
-    "workbox-cli": "^3.6.1"
+    "workbox-cli": "^4.3.1"
   },
   "scripts": {
     "build": "workbox generateSW"
