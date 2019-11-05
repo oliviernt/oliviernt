@@ -385,7 +385,19 @@
       display: inline-block;
       width: 200px
     }
-   
+
+    #thanks {
+      display: none;
+      border: 1px solid #e00000;
+      background: #fff;
+      color: #444;
+      padding-left: 1rem;
+    }
+
+    #thanks:target {
+      display: block;
+    }
+
     @media screen and (min-width:38em) {
    
       nav ul li,
@@ -440,6 +452,10 @@
       <h1>Olivier Tille</h1>
       <h2>Be positive, be interested!</h2>
     </header>
+
+    <section id="thanks">
+      <p>Thank you for your message. I'll try to get back to you asap! Until then: have a great day :) <a href="#">close</a></p>
+    </section>
   
     <section id="about-me">
       <h2>About Me</h2>
@@ -459,7 +475,7 @@
       
       <p>Or you can fill out the form below to send me an E-Mail</p>
       
-      <form name="contact" method="POST" data-netlify="true">
+      <form name="contact" method="POST" data-netlify="true" action="/#thanks">
         <p>
           <label for="name">Your Name: </label><input type="text" name="name" id="name" required placeholder="Your name"/>
         </p>
