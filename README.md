@@ -1,3 +1,9 @@
-# oliviernt.keybase.pub
+# Olivier Tille
 
-My own website and playground.
+#BlackLivesMatter
+Software Dev @lexoffice
+ - 💓 the Web & #FOSS! 
+#BikeToWork #Bike2work #VeloTaf 🚵
+Boston @Celtics Supporter ☘️
+PGP http://keybase.io/oliviernt
+he/him
